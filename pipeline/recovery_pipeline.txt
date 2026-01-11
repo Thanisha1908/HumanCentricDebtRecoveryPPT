@@ -1,0 +1,6 @@
+Debt Recovery Pipeline:
+Borrower input collected
+Emotion analysis using Emotion AI
+Explainable AI reasoning generated
+Account priority assigned
+Agent dashboard updated 
